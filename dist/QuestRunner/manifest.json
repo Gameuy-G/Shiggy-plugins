@@ -1,8 +1,0 @@
-{
-  "name": "QuestRunner",
-  "description": "Automated video quest completer",
-  "authors": [{"name": "Gameuy", "id": "0"}],
-  "main": "index.js",
-  "version": "0.1.0",
-  "vendetta": { "icon": "ic_clock" }
-}
